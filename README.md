@@ -1,8 +1,8 @@
 # Beverages recipes searcher api
 
-## I built using react.
+ I built using react.
 
-## I used context provider.
+ I used context provider.
 
 Link to the page:
 https://beverages-api-searcher.netlify.app
